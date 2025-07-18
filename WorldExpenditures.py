@@ -7,7 +7,7 @@ import seaborn as sns
 
 
 # --- Load the original dataset ---
-df = pd.read_csv("../week1 project/WorldExpenditures.csv")
+df = pd.read_csv("WorldExpenditures.csv")
 
 # --- Page Title ---
 st.title("🌍 World Expenditures Analysis - Week 1 Project")
